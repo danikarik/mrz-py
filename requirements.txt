@@ -3,7 +3,7 @@ chardet==3.0.4
 cv==1.0.0.dev5
 idna==2.8
 imutils==0.5.3
-numpy==1.17.0
+numpy==1.22.0
 opencv-python==4.1.0.25
 requests==2.22.0
 serious==1.0.0.dev20
